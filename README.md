@@ -39,7 +39,7 @@ Business owners receive simple outage notifications and AI-generated recovery ad
 
 # 🏗 Architecture
 
-![Architecture](https://github.com/Ahmad-Hamdy-Elhendawy/Raqeeb-/blob/main/architecture.png?raw=true)
+![Architecture](https://github.com/Ahmad-Hamdy-Elhendawy/Raqeeb-/blob/main/Architecture.png?raw=true)
 
 ---
 
